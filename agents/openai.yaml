@@ -1,4 +1,4 @@
 interface:
   display_name: "开发需求文档编写"
-  short_description: "读项目档案后，按固定结构编写开发需求文档与分期开发提示词，适用任意项目"
-  default_prompt: "Use $requirements-writer to draft a feature requirements document and phased development prompts. First read the project's requirements-profile.md for architecture, database, auth, and verification terms."
+  short_description: "用大白话确认原始目标与最终效果，再编写需求文档和分期提示词"
+  default_prompt: "Use $requirements-writer to read the project profile, summarize the user's original purpose and final expected outcome in plain business language, surface conflicts for confirmation, and draft only the confirmed requirements and phases."
