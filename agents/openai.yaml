@@ -1,4 +1,4 @@
 interface:
   display_name: "开发需求文档编写"
-  short_description: "用大白话确认原始目标与最终效果，再编写需求文档和分期提示词"
-  default_prompt: "Use $requirements-writer to read the project profile, summarize the user's original purpose and final expected outcome in plain business language, surface conflicts for confirmation, and draft only the confirmed requirements and phases."
+  short_description: "平衡 AI 分期工作量与上下文，并加入可回滚 Git 备份"
+  default_prompt: "Use $requirements-writer to confirm the business goal, balance each AI development phase by workload and context, preserve durable handoffs, and add verified Git backup checkpoints."
