@@ -1,4 +1,4 @@
 interface:
-  display_name: "开发需求文档编写"
-  short_description: "平衡 AI 分期工作量与上下文，并加入可回滚 Git 备份"
-  default_prompt: "Use $requirements-writer to confirm the business goal, balance each AI development phase by workload and context, preserve durable handoffs, and add verified Git backup checkpoints."
+  display_name: "Vibe Coding 需求编写"
+  short_description: "视觉先行澄清需求，并生成可执行、可恢复的分期开发文档"
+  default_prompt: "Use $requirements-writer to turn my idea into a visual-first, traceable, phased development specification."
